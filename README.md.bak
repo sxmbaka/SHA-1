@@ -1,7 +1,8 @@
 # SHA-1
 This is an close to original implimentation of the SHA-1 algorithm. Its written in the Java Language.
 <<<<<<< HEAD
-Or this way.
+I want it that way, Or this way.
+
 =======
-I want it that way.
->>>>>>> origin/main
+I want it this way again.
+>>>>>>> experimental
