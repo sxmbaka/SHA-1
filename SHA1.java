@@ -1,4 +1,4 @@
-/* Created By @yatharthw at github */
+/* Created By @sxmbaka at github */
 
 import java.util.Scanner;
 
